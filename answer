@@ -1,0 +1,10 @@
+Failing to validate input and prevent injection attacks - Lazy Cat
+Ignoring updates to third-party dependencies - Clueless Koala
+Storing passwords in plain text - Password Potato
+Hardcoding sensitive information into code - Forgetful Fish
+Neglecting to test applications for vulnerabilities - Distracted Duck
+Disabling security features because they're "too much work" - Reckless Rabbit
+Ignoring security event logging and anomaly monitoring - Jumpy Jellyfish
+Failing to encrypt sensitive data in transit and at rest - Silly Seal
+Failing to enable two-factor authentication - Sleepy Sloth
+Failing to limit access to sensitive information - Curious Cat
