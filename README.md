@@ -21,3 +21,24 @@
 ***9. Don't be a curious cat*** - limit access to sensitive information! Limiting access to sensitive information is an important part of keeping your application secure. Don't be a curious cat and give everyone access to everything. Use role-based access control and other security measures to limit access to sensitive information.
 ***
 ***10. Don't be a distracted duck*** - test your application for vulnerabilities! Regularly testing your application for vulnerabilities is crucial to maintaining its security. Don't be a distracted duck and forget to test your application. Use tools like penetration testing and vulnerability scanning to identify and fix security issues before they can be exploited.
+
+
+Now we'll play ***Secure Coding Mistakes Animal Matching Game***
+
+***Instrcutions***
+Match each common secure coding mistake with the animal category it makes you.
+
+
+## Questions
+
+- [ ] Failing to validate input and prevent injection attacks
+- [ ] Ignoring updates to third-party dependencies
+- [ ] Storing passwords in plain text
+- [ ] Hardcoding sensitive information into code
+- [ ] Neglecting to test applications for vulnerabilities
+- [ ] Disabling security features because they're "too much work"
+- [ ] Ignoring security event logging and anomaly monitoring
+- [ ] Failing to encrypt sensitive data in transit and at rest
+- [ ] Failing to enable two-factor authentication
+- [ ] Failing to limit access to sensitive information
+
